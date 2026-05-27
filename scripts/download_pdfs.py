@@ -25,7 +25,7 @@ import requests
 
 # --- Config ---
 REPO_ROOT = Path(__file__).resolve().parent.parent
-EXCEL_PATH = REPO_ROOT / "NSDS_Financing_2025_update.xlsx"
+EXCEL_PATH = REPO_ROOT / "NSDS Financing 2025 update.xlsx"
 RAW_DIR = REPO_ROOT / "raw"
 METADATA_PATH = REPO_ROOT / "metadata.csv"
 
