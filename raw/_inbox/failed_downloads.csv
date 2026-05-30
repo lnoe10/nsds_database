@@ -1,0 +1,48 @@
+country,iso3,file_id,failure_reason,source_url
+Austria,AUT,aut_noyr_statistical_work_program_2021_2024,Timeout,https://www.statistik.at/fileadmin/pages/535/strategie_2025.pdf
+Burundi,BDI,bdi_2016_stratégie_nationale_du_développement_de,HTTP 404,https://isteebu.bi/wp-content/uploads/2023/01/NSDS-Burundi_Document-Principal-2.pdf
+Bangladesh,BGD,bgd_2013_national_strategy_for_the_development_of,HTTP 403,http://www.paris21.org/sites/default/files/Bangladesh NSDS_2013-23_Final Cabinet approved.pdf
+Bolivia,BOL,bol_2021_plan_estratgégico_institucional_pei_2021,File suspiciously small (28 bytes),https://www.ine.gob.bo/index.php/descarga/715/plan-estrategico-institucional-2021-2025/59739/pei-2021-2025-del-ine.pdf
+Brazil,BRA,bra_2017_plano_estratégico_2017_2027,Timeout,https://www.ibge.gov.br/np_download/novoportal/documentos_institucionais/Plano_Estrategico_2017_2027.pdf
+Botswana,BWA,bwa_2015_botswana_strategy_for_the_development_of,HTTP 403,http://www.paris21.org/sites/default/files/Botswana_Strategy_for_the_Development_of_Statistics__BSDS__-_2015_-_2020.pdf
+"Congo, Dem. Rep.",COD,cod_2012_stratégie_nationale_de_développement_de,HTTP 403,http://www.paris21.org/sites/default/files/DRC SNDS 2012-17.pdf
+Ethiopia,ETH,eth_2021_national_strategy_for_the_development_of,Connection error,http://www.statsethiopia.gov.et/wp-content/uploads/2024/02/ETHIOPIAN-STATISTICS-DEVELOPMENT-PROGRAM-ESDP-E.F.Y.-2016-2018-2024-2026-G.C..pdf
+Ghana,GHA,gha_2018_national_strategy_for_the_development_of,HTTP 404,https://statsghana.gov.gh/gssmain/storage/img/NSDS%20II%20Ghana_Revised_16.03.18.pdf
+Guinea-Bissau,GNB,gnb_2018_stratégie_nationale_de_développement_de,HTTP 403,https://paris21.org/sites/default/files/2018-10/guinee-bissau_SNDS_Resume_FR_print_final.pdf
+Equatorial Guinea,GNQ,gnq_2022_estrategia_nacional_de_desarrollo_de_la,Connection error,https://inege.gq/wp-content/uploads/2023/09/ENDE-2022-2026.pdf
+Guatemala,GTM,gtm_2024_plan_estrategico_institucional_pei_2024,HTTP 404,https://www.ine.gob.gt/sistema/uploads/2024/07/04/202407041908069Odm3oxU9mTY58hkborwzylm7MJop05q.pdf
+Indonesia,IDN,idn_2020_national_statistical_plan_2020_2024,HTTP 403,https://www.bps.go.id/website/fileMenu/Renstra-BPS-2020-2024.pdf
+Jordan,JOR,jor_2018_national_strategy_for_development_of_sta,HTTP 403,https://paris21.org/sites/default/files/2019-05/JPRDAN_NSDS 18-22.pdf
+Kenya,KEN,ken_2023_national_strategy_for_the_development_of,Connection error,https://www.knbs.or.ke/wp-content/uploads/2024/03/Kenya-National-Bureau-of-Statistics-Strategic-Plan-2023-2027.pdf
+Kenya,KEN,ken_2023_strategic_plan_2023_2027,Connection error,https://www.knbs.or.ke/wp-content/uploads/2024/03/Kenya-National-Bureau-of-Statistics-Strategic-Plan-2023-2027.pdf
+Libya,LBY,lby_2018_national_strategy_for_the_development_of,HTTP 403,https://paris21.org/sites/default/files/2018-04/NSDS-Libya-En.pdf
+Lithuania,LTU,ltu_2023_strategic_action_plan_2023_2025,HTTP 403,https://www.stat.gov.lt/documents/29256/10511041/VDA_2023_2025_strateginis_veiklos_planas.pdf/4a2a3569-9a9d-43cd-bc9f-84f737a51407
+Mexico,MEX,mex_2019_programa_nacional_de_estadística_y_geogr,Connection error,http://dof.gob.mx/nota_detalle.php?codigo=5598031&fecha=07/08/2020
+Malta,MLT,mlt_2023_national_statistics_office_work_programm,HTTP 403,https://nso.gov.mt/wp-content/uploads/Work-Programme_2023-2025.pdf
+Myanmar,MMR,mmr_2016_national_strategy_for_the_development_of,HTTP 403,http://www.paris21.org/sites/default/files/Myanmar NSDS- core strategy %28English Ver%29_Jul 2016.pdf
+Mongolia,MNG,mng_2021_strategic_plan_for_the_development_of_th,Connection error,https://www.1212.mn/en/transparency/3/39953353
+Mozambique,MOZ,moz_2025_plano_estratégico_do_sistema_estatístico,Connection error,https://ine.gov.mz/en/web/guest/d/pe-sen-2025-2029-pos-cse-2025
+Malawi,MWI,mwi_2019_national_statistical_system_strategic_pl,HTTP 404,http://www.nsomalawi.mw/images/stories/NSSACTIVITIES/national statistical system strategic plan 2019-2023.pdf
+Malaysia,MYS,mys_2021_pelan_strategik_jabatan_perangkaan_malay,Connection error,https://www.dosm.gov.my/v1/uploads/files/4_Portal%20Content/1_About%20us/6_Strategic_Plan/Pelan-Strategik-DOSM-2021-2025.pdf
+Namibia,NAM,nam_2023_national_strategy_for_the_development_of,HTTP 404,https://nsa.nsa.org.na/wp-content/uploads/2023/07/NSDS-Report.pdf
+Nepal,NPL,npl_2018_national_strategy_for_the_development_of,Connection error,https://cbs.gov.np/wp-content/upLoads/2020/01/National-Strategy-for-the-Development-of-Statistical-System_Final.pdf
+Philippines,PHL,phl_2023_philippine_statistical_development_progr,HTTP 403,https://psa.gov.ph/philippine-statistical-system/psdp/primer/2023-2029
+Papua New Guinea,PNG,png_2018_strategy_for_the_development_of_statisti,HTTP 403,https://png-data.sprep.org/dataset/strategy-development-statistics-2018-2027
+Qatar,QAT,qat_2008_national_strategy_for_the_development_of,Timeout,https://www.psa.gov.qa/en/knowledge/Doc/Documents/NSDS__2008_EN.pdf
+Romania,ROU,rou_2021_the_national_statistical_system_developm,Connection error,https://insse.ro/cms/files/legislatie/Initiative%20legislative/2022/Proiect_strategie_2022-2027_final_30.03.2022.pdf
+Russian Federation,RUS,rus_2019_2024_rosstat_development_strategy_strate,Connection error,https://eng.rosstat.gov.ru/storage/2020/01-30/5fKftnzF/Strategy%202024.pdf
+Rwanda,RWA,rwa_2024_national_strategy_for_the_development_of,Connection error,https://alpha.statistics.gov.rw/sites/default/files/documents/2025-05/NSDS4%20%282024_2029%29.pdf
+Saudi Arabia,SAU,sau_2030_national_strategy_for_the_statistical_de,HTTP 404,https://www.stats.gov.sa/en/page/63
+Senegal,SEN,sen_2019_troisieme_stratégie_nationale_de_dévelop,Connection error,https://www.ansd.sn/sites/default/files/2022-04/Rapport-final-SNDS-III%20%282%29.pdf
+Solomon Islands,SLB,slb_2015_national_strategy_for_the_development_of,Connection error,https://www.statistics.gov.sb/sinso-documents?view=download&format=raw&fileId=614
+Sierra Leone,SLE,sle_2022_extended_second_national_strategy_for_th,HTTP 403,http://www.statistics.sl/images/StatisticsSL/Documents/Extended-Second-National-Strategy-for-the-Development-of-Statistics_E-NSDSII.pdf
+Somalia,SOM,som_2024_national_strategy_for_the_development_of,HTTP 504,https://info.undp.org/docs/pdc/Documents/SOM/Final%20Report-Mohamed%20Barre-Strategic%20Plan%20%20(1).pdf
+Seychelles,SYC,syc_2023_national_strategic_plan_for_statistics_2,HTTP 403,https://www.nbs.gov.sc/about/nbs-plans/1465-seychelles-nsps-2023-2027/viewdocument/1465
+Tajikistan,TJK,tjk_2020_national_strategy_for_the_development_of,HTTP 404,https://stat.tj/storage/files/nsds_to_2030.pdf
+Tonga,TON,ton_2019_tonga_strategy_for_development_of_statis,HTTP 403,https://paris21.org/sites/default/files/2018-11/Tonga-NSDS 2018.pdf
+Uganda,UGA,uga_2020_third_plan_for_national_statistical_deve,Connection error,https://www.ubos.org/wp-content/uploads/publications/08_2021THIRD_PLAN_FOR_NATIONAL_STATISTICAL_DEVELOPMENT_FY2020_21_FY2024_25.pdf
+Uruguay,URY,ury_2022_plan_estadístico_nacional_20222025,Connection error,https://www5.ine.gub.uy/documents/SEN/Plan%20Estad%C3%ADstico%20Nacional/Plan%20Estad%C3%ADstico%20Nacional%202022%202025.pdf
+Vietnam,VNM,vnm_2011_vietnam_statistical_development_strategy,HTTP 403,http://paris21.org/sites/default/files/VIETNAM_roadmap_E-final.pdf
+Vanuatu,VUT,vut_2024_national_strategy_for_the_development_of,HTTP 404,https://vbos.gov.vu/sites/default/files/NSDS%20Strategy%202024-2028.pdf
+Zimbabwe,ZWE,zwe_2021_national_strategy_for_the_development_of,Timeout,https://www.zimstat.co.zw/wp-content/uploads/NSS/National_stategy_for_the_development_of_statistics_Final_25012024.pdf
+Kenya,KEN,ken_gender_stats_plan,Connection error,https://www.knbs.or.ke/gender-sector-statistics-plan/
